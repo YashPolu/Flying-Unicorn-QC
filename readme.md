@@ -199,8 +199,3 @@ A summary of the timing metrics for executing a quantum program on the QisKit si
 ## Metrics Conclusion
 
 The results record significant wait times for programs executed on IBM Q Experience versus the simulator.
-
-Author
-----
-Kory Becker
-http://www.primaryobjects.com/kory-becker
